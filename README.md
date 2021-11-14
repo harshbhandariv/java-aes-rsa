@@ -1,6 +1,4 @@
-# stunning-dollop
-
-Java project for 18ITGC0
+# Java project for 18ITGC0
 
 ## Hybrid Encryption
 
