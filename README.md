@@ -13,10 +13,10 @@
 
 #### Sender side
 
-![Sender side](https://github.com/harshbhandariv/java-aes-rsa/blob/main/uploads/sender.jpeg?raw=true)
+![Sender side](uploads/sender.svg)
 
 #### Receiver side
 
-![Receiver side](https://github.com/harshbhandariv/java-aes-rsa/blob/main/uploads/receiver.jpeg?raw=true)
+![Receiver side](uploads/receiver.svg)
 
 More information available [here](https://drive.google.com/file/d/12jGGVieTTKgdCCg33PS7k7_2gq0_DwuX/view?usp=sharing)
